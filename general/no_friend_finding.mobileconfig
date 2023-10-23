@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>Restrictions</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.applicationaccess.A7418DD3-5B76-4DF2-8EDE-9B7810182F0A</string>
+			<key>PayloadType</key>
+			<string>com.apple.applicationaccess</string>
+			<key>PayloadUUID</key>
+			<string>A7418DD3-5B76-4DF2-8EDE-9B7810182F0A</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>allowFindMyFriends</key>
+			<false/>
+			<key>allowFindMyFriendsModification</key>
+			<false/>
+			<key>ratingRegion</key>
+			<string>us</string>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Heyyya, no friendfinding in da house!!!</string>
+	<key>PayloadDisplayName</key>
+	<string>No Friendfinding!</string>
+	<key>PayloadIdentifier</key>
+	<string>no-friendfinding.54B6392B-48BD-44EA-88E1-0388AB221AC3</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>A2748E3C-4B58-44FD-B58C-A7E965A0659D</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

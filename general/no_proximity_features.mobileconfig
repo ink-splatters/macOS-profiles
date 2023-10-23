@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HasRemovalPasscode</key>
+	<false/>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>Restrictions</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.applicationaccess.DBF90249-4A7D-4221-954A-7CAFD7BAF242</string>
+			<key>PayloadType</key>
+			<string>com.apple.applicationaccess</string>
+			<key>PayloadUUID</key>
+			<string>DBF90249-4A7D-4221-954A-7CAFD7BAF242</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>allowAirPrintiBeaconDiscovery</key>
+			<false/>
+			<key>allowPasswordProximityRequests</key>
+			<false/>
+			<key>allowPasswordSharing</key>
+			<false/>
+			<key>allowProximitySetupToNewDevice</key>
+			<false/>
+			<key>ratingRegion</key>
+			<string>us</string>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>No Nearby / Proximity Features</string>
+	<key>PayloadIdentifier</key>
+	<string>no-proximity-features.BDCAC7EE-B194-46D3-B6D9-8ADDD5646F24</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>67302D7C-1FD1-455D-87C8-AC60231801F6</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

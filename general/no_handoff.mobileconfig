@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>Restrictions</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.applicationaccess.CAC41B3C-3129-4712-A5D8-B81BB73F6E8F</string>
+			<key>PayloadType</key>
+			<string>com.apple.applicationaccess</string>
+			<key>PayloadUUID</key>
+			<string>CAC41B3C-3129-4712-A5D8-B81BB73F6E8F</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>allowActivityContinuation</key>
+			<false/>
+			<key>ratingRegion</key>
+			<string>us</string>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Disables HandOff features</string>
+	<key>PayloadDisplayName</key>
+	<string>No Handoff</string>
+	<key>PayloadIdentifier</key>
+	<string>no-handoff.FE12A6EC-28B9-45D6-9596-938534B7B1C9</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>0B05A6F1-5F5B-4437-927A-6B5FFA3FED23</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
