@@ -1,15 +1,22 @@
-## macOS configuration profiles
+## macOS profiles
 
-`.mobileconfig` profiles to tune macOS settings
+Opinionated macOS defaults implemeneted as [configuration profiles](https://support.apple.com/en-hk/guide/mac-help/mh35561/mac)
 
-#### ⚠️ CAUTION ⚠️
+### Requirements
 
-`macos/danger-zone` contains profile to configure global password restrictions. Its use generally is _discouraged_, as
-there is a chance of lockout (if the current password doesn't meet restrictions).
+- only Apple Silicon is officially supported. You miles may vary with Intel system.
+- TODO: mention last tested macOS version
 
-In very rare circumstances, when both of the following occurs:
-- user is locked out
-- macOS has personalization errors
+### ⚠️ CAUTION ⚠️
 
-RecoveryOS is accessible _only with FileVault recovery key_. If forgotten, despite supplying valid password,
-user faces de-facto irreversible data loss, as neither macOS, nor RecoveryOS login is possible.
+Tampering with system-wide Password Policy potentially can lock you out. 
+
+- it's not been tested by the author if it's still possible to enter `RecoveryOS` when such a lockout is combined with `FileVault` _disabled_ state
+- it's not been tested by the author if it's still possible to enter `RecoveryOS` using credentials of Recovery-enabled user<sup>1</sup>,
+  when such a lockout is combined with `FileVault` _enabled_ state
+- __FileVault personal recovery key should always work__
+
+Always enable `FileVault`. Always store your `FileVault` personal recovery key securely, outside of the system it's intended for.
+
+.
+
