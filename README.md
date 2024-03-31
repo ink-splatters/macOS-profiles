@@ -2,21 +2,19 @@
 
 Opinionated privacy-focused macOS defaults implemeneted as [configuration profiles](https://support.apple.com/en-hk/guide/mac-help/mh35561/mac)
 
-### Requirements
+### Caveats
 
-- only Apple Silicon is officially supported. You miles may vary with Intel system.
+- [nix-darwin](https://github.com/LnL7/nix-darwin) users won't find anything special here
+- only Apple Silicon is officially supported. Your miles may vary with Intel system
 - TODO: mention last tested macOS version
 
 ### ⚠️ CAUTION ⚠️
 
-Tampering with system-wide Password Policy potentially can lock you out. 
+Tampering with system-wide Password Policy potentially can lock you out. In some cases this may lead to **permanent data loss**!
 
-- it's not been tested by the author if it's still possible to enter `RecoveryOS` when such a lockout is combined with `FileVault` _disabled_ state
-- it's not been tested by the author if it's still possible to enter `RecoveryOS` using credentials of Recovery-enabled user<sup>1</sup>,
-  when such a lockout is combined with `FileVault` _enabled_ state
-- __FileVault personal recovery key should always work__
+- always enable FileVault!
+- always store your FileVault **personal recovery key** securely, outside of the system it's intended for!
 
-Always enable `FileVault`. Always store your `FileVault` personal recovery key securely, outside of the system it's intended for.
 
 .
 
