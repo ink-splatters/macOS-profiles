@@ -1,6 +1,6 @@
 ## macOS profiles
 
-Opinionated macOS defaults implemeneted as [configuration profiles](https://support.apple.com/en-hk/guide/mac-help/mh35561/mac)
+Opinionated privacy-focused macOS defaults implemeneted as [configuration profiles](https://support.apple.com/en-hk/guide/mac-help/mh35561/mac)
 
 ### Requirements
 
