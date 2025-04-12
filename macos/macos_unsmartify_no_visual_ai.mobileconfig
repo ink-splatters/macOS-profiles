@@ -8,32 +8,36 @@
 			<key>PayloadDisplayName</key>
 			<string>Restrictions</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.applicationaccess.F0823068-E32A-4DBC-AA5F-858B9B4695D3</string>
+			<string>com.apple.applicationaccess.AAA354F0-34FF-41BD-B4A0-B27A119C5E90</string>
 			<key>PayloadType</key>
 			<string>com.apple.applicationaccess</string>
 			<key>PayloadUUID</key>
-			<string>F0823068-E32A-4DBC-AA5F-858B9B4695D3</string>
+			<string>AAA354F0-34FF-41BD-B4A0-B27A119C5E90</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
-			<key>allowAirPrint</key>
+			<key>allowGenmoji</key>
 			<false/>
-			<key>ratingRegion</key>
-			<string>us</string>
+			<key>allowImagePlayground</key>
+			<false/>
+			<key>allowImageWand</key>
+			<false/>
+			<key>allowVisualIntelligenceSummary</key>
+			<false/>
 		</dict>
 	</array>
-	<key>PayloadDescription</key>
-	<string>No AirPrint</string>
 	<key>PayloadDisplayName</key>
-	<string>No AirPrint</string>
+	<string>Unsmartify No Visual AI</string>
 	<key>PayloadIdentifier</key>
-	<string>no-airprint.63AEFE02-44CC-4B1E-B4C5-F6D16C159573</string>
+	<string>unsmartify-no-visual-ai-4D5D0E2C-943E-4D4B-8DE5-D202730E2179</string>
 	<key>PayloadScope</key>
 	<string>System</string>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>08A4F30A-012C-4F44-99D0-A79C0F19CC83</string>
+	<string>4D5D0E2C-943E-4D4B-8DE5-D202730E2179</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
+	<key>RemovalDate</key>
+	<date>9999-12-31T15:37:24Z</date>
 </dict>
 </plist>

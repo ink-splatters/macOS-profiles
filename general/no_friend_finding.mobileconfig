@@ -19,8 +19,6 @@
 			<false/>
 			<key>allowFindMyFriendsModification</key>
 			<false/>
-			<key>ratingRegion</key>
-			<string>us</string>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
@@ -28,7 +26,7 @@
 	<key>PayloadDisplayName</key>
 	<string>No Friendfinding!</string>
 	<key>PayloadIdentifier</key>
-	<string>no-friendfinding.54B6392B-48BD-44EA-88E1-0388AB221AC3</string>
+	<string>no-friendfinding.A2748E3C-4B58-44FD-B58C-A7E965A0659D</string>
 	<key>PayloadScope</key>
 	<string>System</string>
 	<key>PayloadType</key>
@@ -37,5 +35,7 @@
 	<string>A2748E3C-4B58-44FD-B58C-A7E965A0659D</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
+	<key>RemovalDate</key>
+	<date>9999-12-31T15:37:24Z</date>
 </dict>
 </plist>

@@ -8,33 +8,29 @@
 			<key>PayloadDisplayName</key>
 			<string>Restrictions</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.applicationaccess.DBF90249-4A7D-4221-954A-7CAFD7BAF242</string>
+			<string>com.apple.applicationaccess.0BE42B09-E8AD-4F47-93B5-9347322846C2</string>
 			<key>PayloadType</key>
 			<string>com.apple.applicationaccess</string>
 			<key>PayloadUUID</key>
-			<string>DBF90249-4A7D-4221-954A-7CAFD7BAF242</string>
+			<string>0BE42B09-E8AD-4F47-93B5-9347322846C2</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
-			<key>allowAirPrintiBeaconDiscovery</key>
+			<key>allowMailSmartReplies</key>
 			<false/>
-			<key>allowPasswordProximityRequests</key>
-			<false/>
-			<key>allowPasswordSharing</key>
-			<false/>
-			<key>allowProximitySetupToNewDevice</key>
+			<key>allowMailSummary</key>
 			<false/>
 		</dict>
 	</array>
 	<key>PayloadDisplayName</key>
-	<string>No Nearby / Proximity Features</string>
+	<string>Unsmartify No Mail AI</string>
 	<key>PayloadIdentifier</key>
-	<string>no-proximity-features.67302D7C-1FD1-455D-87C8-AC60231801F6</string>
+	<string>unsmartify-no-mail-ai-B868C718-ACFF-43D2-8DC0-855686AF4AB9</string>
 	<key>PayloadScope</key>
 	<string>System</string>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>67302D7C-1FD1-455D-87C8-AC60231801F6</string>
+	<string>B868C718-ACFF-43D2-8DC0-855686AF4AB9</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 	<key>RemovalDate</key>

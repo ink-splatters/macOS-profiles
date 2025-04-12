@@ -17,10 +17,6 @@
 			<integer>1</integer>
 			<key>allowCloudFMM</key>
 			<false/>
-			<key>allowFindMyDevice</key>
-			<false/>
-			<key>ratingRegion</key>
-			<string>us</string>
 		</dict>
 		<dict>
 			<key>DisableFMMiCloudSetting</key>
@@ -28,11 +24,11 @@
 			<key>PayloadDisplayName</key>
 			<string>iCloud Find My</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.icloud.managed.2E115868-59A0-4FAA-93CE-10D940DB90B5</string>
+			<string>com.apple.icloud.managed.6E670D15-3BB5-443C-A8FE-B04E989DAE98</string>
 			<key>PayloadType</key>
 			<string>com.apple.icloud.managed</string>
 			<key>PayloadUUID</key>
-			<string>2E115868-59A0-4FAA-93CE-10D940DB90B5</string>
+			<string>6E670D15-3BB5-443C-A8FE-B04E989DAE98</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 		</dict>
@@ -40,7 +36,7 @@
 	<key>PayloadDisplayName</key>
 	<string>No FindMy</string>
 	<key>PayloadIdentifier</key>
-	<string>no-findmy.1B8235F0-99A7-4D9F-9094-36D9F30400C6</string>
+	<string>no-findmy.A4D196F6-C69C-4B0B-8F49-AA7EA2E8C13C</string>
 	<key>PayloadScope</key>
 	<string>System</string>
 	<key>PayloadType</key>
@@ -49,5 +45,7 @@
 	<string>A4D196F6-C69C-4B0B-8F49-AA7EA2E8C13C</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
+	<key>RemovalDate</key>
+	<date>9999-12-31T15:37:24Z</date>
 </dict>
 </plist>

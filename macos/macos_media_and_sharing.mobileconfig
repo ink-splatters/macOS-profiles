@@ -25,8 +25,6 @@
 			<false/>
 			<key>allowiTunes</key>
 			<false/>
-			<key>ratingRegion</key>
-			<string>us</string>
 		</dict>
 		<dict>
 			<key>BKAlreadyDisplayedGDPRWelcomeExperience</key>
@@ -99,7 +97,7 @@
 	<key>PayloadDisplayName</key>
 	<string>Restrict media and sharing</string>
 	<key>PayloadIdentifier</key>
-	<string>restrict-media-and-sharing-9BE3ADCA-AF55-4FEC-B0AE-44886A076217</string>
+	<string>media-and-sharing-78DCF55E-6B76-47EA-A6D2-CEF4A5999C3B</string>
 	<key>PayloadScope</key>
 	<string>System</string>
 	<key>PayloadType</key>
@@ -108,5 +106,7 @@
 	<string>78DCF55E-6B76-47EA-A6D2-CEF4A5999C3B</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
+	<key>RemovalDate</key>
+	<date>9999-12-31T15:37:24Z</date>
 </dict>
 </plist>

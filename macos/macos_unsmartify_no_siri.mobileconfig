@@ -33,6 +33,8 @@
 			<string>56879543-6E36-46F9-BD3B-3B84EEFE6162</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
+			<key>Search Queries Data Sharing Status</key>
+			<integer>2</integer>
 			<key>Siri Data Sharing Opt-In Status</key>
 			<integer>2</integer>
 		</dict>
@@ -40,52 +42,34 @@
 			<key>PayloadDisplayName</key>
 			<string>Restrictions</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.applicationaccess.BC7397CF-4C1D-46D2-A3E5-C49D1CF62D7B</string>
+			<string>com.apple.applicationaccess.32AB40DB-C643-46A2-AF44-A05A6DE0E9E3</string>
 			<key>PayloadType</key>
 			<string>com.apple.applicationaccess</string>
 			<key>PayloadUUID</key>
-			<string>BC7397CF-4C1D-46D2-A3E5-C49D1CF62D7B</string>
+			<string>32AB40DB-C643-46A2-AF44-A05A6DE0E9E3</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>allowAssistant</key>
 			<false/>
-			<key>allowAutoCorrection</key>
-			<false/>
-			<key>allowContinuousPathKeyboard</key>
-			<false/>
-			<key>allowDefinitionLookup</key>
-			<false/>
-			<key>allowDictation</key>
-			<false/>
-			<key>allowKeyboardShortcuts</key>
-			<false/>
-			<key>allowPredictiveKeyboard</key>
-			<false/>
 			<key>allowSiriServerLogging</key>
-			<false/>
-			<key>allowSpellCheck</key>
 			<false/>
 			<key>allowSpotlightInternetResults</key>
 			<false/>
-			<key>forceOnDeviceOnlyTranslation</key>
-			<true/>
-			<key>ratingRegion</key>
-			<string>us</string>
 		</dict>
 	</array>
-	<key>PayloadDescription</key>
-	<string>No Siri, remote translation and remote dictation</string>
 	<key>PayloadDisplayName</key>
-	<string>Unsmartify Strict</string>
+	<string>Unsmartify No Siri</string>
 	<key>PayloadIdentifier</key>
-	<string>unsmarfity-strict.A412850C-23EB-4CCB-A8D8-8BAC55813EA8</string>
+	<string>unsmarfity-basic.D482BC13-4C86-4BD6-99CF-220EE11BAB1F</string>
 	<key>PayloadScope</key>
 	<string>System</string>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>00B659B9-46AB-4EDA-89DF-51804890C10D</string>
+	<string>D482BC13-4C86-4BD6-99CF-220EE11BAB1F</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
+	<key>RemovalDate</key>
+	<date>9999-12-31T15:37:24Z</date>
 </dict>
 </plist>

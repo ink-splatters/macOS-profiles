@@ -54,7 +54,7 @@
 	<key>PayloadDisplayName</key>
 	<string>No Air Drop</string>
 	<key>PayloadIdentifier</key>
-	<string>no-airdrop.32827E2A-E471-4DF7-B334-23D2A3BCE520</string>
+	<string>no-airdrop.B30A5CC6-10AE-4827-9181-D14D20EA564A</string>
 	<key>PayloadScope</key>
 	<string>System</string>
 	<key>PayloadType</key>
@@ -63,5 +63,7 @@
 	<string>B30A5CC6-10AE-4827-9181-D14D20EA564A</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
+	<key>RemovalDate</key>
+	<date>9999-12-31T15:37:24Z</date>
 </dict>
 </plist>
