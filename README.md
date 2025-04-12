@@ -2,9 +2,9 @@
 
 Opinionated privacy-focused macOS defaults implemeneted as [configuration profiles](https://support.apple.com/en-hk/guide/mac-help/mh35561/mac)
 
-### ⚠️ CAUTION ⚠️
+### Note about Password Policy
 
-Tampering with system-wide Password Policy potentially can lock you out.
+⚠️ Tampering with system-wide Password Policy potentially can lock you out! ⚠️
 
 In some cases this may lead to **permanent data loss!** [UPDATE: this needs to be verified once again]
 
