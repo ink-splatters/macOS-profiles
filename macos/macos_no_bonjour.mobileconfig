@@ -24,7 +24,7 @@
 	<key>PayloadDisplayName</key>
 	<string>No Bonjour</string>
 	<key>PayloadIdentifier</key>
-	<string>no-bonjour.64E68729-4C42-41CA-8212-FC9AD095670A</string>
+	<string>no-bonjour.540305F5-9835-4A4A-9EFA-B9F022990483</string>
 	<key>PayloadScope</key>
 	<string>System</string>
 	<key>PayloadType</key>
@@ -33,5 +33,7 @@
 	<string>540305F5-9835-4A4A-9EFA-B9F022990483</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
+	<key>RemovalDate</key>
+	<date>9999-12-31T15:37:24Z</date>
 </dict>
 </plist>

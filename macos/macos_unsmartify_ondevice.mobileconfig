@@ -15,26 +15,18 @@
 			<string>810C7EB8-0512-454C-92E7-C466D90B1777</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
-			<key>allowAssistantWhileLocked</key>
-			<false/>
-			<key>allowSiriServerLogging</key>
-			<false/>
-			<key>forceAssistantProfanityFilter</key>
-			<false/>
 			<key>forceOnDeviceOnlyDictation</key>
 			<true/>
 			<key>forceOnDeviceOnlyTranslation</key>
 			<true/>
-			<key>ratingRegion</key>
-			<string>us</string>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
 	<string>Local Dictation and Translation onoly</string>
 	<key>PayloadDisplayName</key>
-	<string>Unsmartify Allow On-Device</string>
+	<string>Unsmartify Allow On-Device services</string>
 	<key>PayloadIdentifier</key>
-	<string>unsmarfity-allow-on-device.A412850C-23EB-4CCB-A8D8-8BAC55813EA8</string>
+	<string>unsmarfity-allow-on-device.BCC4FF43-6E8F-48B9-96FF-51C557F5EB01</string>
 	<key>PayloadScope</key>
 	<string>System</string>
 	<key>PayloadType</key>
@@ -43,5 +35,7 @@
 	<string>BCC4FF43-6E8F-48B9-96FF-51C557F5EB01</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
+	<key>RemovalDate</key>
+	<date>9999-12-31T15:37:24Z</date>
 </dict>
 </plist>

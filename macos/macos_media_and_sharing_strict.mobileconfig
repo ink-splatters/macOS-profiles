@@ -30,30 +30,42 @@
 			<key>PayloadType</key>
 			<string>com.apple.applicationaccess</string>
 			<key>PayloadUUID</key>
-			<string>85AFD360-B28D-4392-B3AC-CA23C784A0A8</string>
+			<string>A9FEE35D-5C4A-4A6A-B134-0D0F08CA1A1B</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
+			<key>allowARDRemoteManagementModification</key>
+			<false/>
 			<key>allowAppClips</key>
+			<false/>
+			<key>allowBluetoothSharingModification</key>
 			<false/>
 			<key>allowBookstore</key>
 			<false/>
-			<key>allowCloudBackup</key>
-			<false/>
-			<key>allowCloudPhotoLibrary</key>
+			<key>allowFileSharingModification</key>
 			<false/>
 			<key>allowGameCenter</key>
+			<false/>
+			<key>allowMediaSharingModification</key>
 			<false/>
 			<key>allowMusicService</key>
 			<false/>
 			<key>allowNews</key>
 			<false/>
+			<key>allowPasswordSharing</key>
+			<false/>
 			<key>allowPhotoStream</key>
 			<false/>
 			<key>allowPodcasts</key>
 			<false/>
+			<key>allowPrinterSharingModification</key>
+			<false/>
 			<key>allowRadioService</key>
 			<false/>
 			<key>allowRemoteAppPairing</key>
+			<false/>
+			<key>allowRemoteAppleEventsModification</key>
+			<false/>
+			<key>allowSharedDeviceTemporarySession</key>
 			<false/>
 			<key>allowSharedStream</key>
 			<false/>
@@ -61,8 +73,6 @@
 			<false/>
 			<key>allowiTunesFileSharing</key>
 			<false/>
-			<key>ratingRegion</key>
-			<string>us</string>
 		</dict>
 		<dict>
 			<key>DisableDeviceBackups</key>
@@ -119,20 +129,48 @@
 			<key>mediaSharingUIStatus</key>
 			<integer>0</integer>
 		</dict>
+		<dict>
+			<key>AllowImports</key>
+			<false/>
+			<key>AllowPersonalCaching</key>
+			<false/>
+			<key>AllowSharedCaching</key>
+			<false/>
+			<key>AllowWirelessPortable</key>
+			<false/>
+			<key>DenyTetheredCaching</key>
+			<true/>
+			<key>ListenWithPeersAndParents</key>
+			<false/>
+			<key>MaxConcurrentClients</key>
+			<integer>0</integer>
+			<key>MaxPeersToQuery</key>
+			<integer>0</integer>
+			<key>PayloadDisplayName</key>
+			<string>Content Caching</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.AssetCache.managed.EA62E71C-286C-498B-9295-CAD3812BFB06</string>
+			<key>PayloadType</key>
+			<string>com.apple.AssetCache.managed</string>
+			<key>PayloadUUID</key>
+			<string>EA62E71C-286C-498B-9295-CAD3812BFB06</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
 	</array>
-	<key>PayloadDescription</key>
-	<string>Apple Music and Podcasts stay intact</string>
 	<key>PayloadDisplayName</key>
 	<string>ReSTRICT media and sharing</string>
 	<key>PayloadIdentifier</key>
-	<string>media-and-sharing-strict.F7A2ACA1-3EEA-4714-9DAE-C7B0B7A3AA98</string>
+	<string>media-and-sharing-strict.CC661EBD-D491-48F3-B102-7E2FF2E0A1CE</string>
 	<key>PayloadScope</key>
 	<string>System</string>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>F4386188-FDB1-45B7-B3F2-D1EC7E01F5F4</string>
+	<string>CC661EBD-D491-48F3-B102-7E2FF2E0A1CE</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
+	<key>RemovalDate</key>
+	<date>9999-12-31T15:37:24Z</date>
 </dict>
 </plist>

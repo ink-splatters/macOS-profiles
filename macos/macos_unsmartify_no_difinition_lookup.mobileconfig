@@ -8,33 +8,27 @@
 			<key>PayloadDisplayName</key>
 			<string>Restrictions</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.applicationaccess.DBF90249-4A7D-4221-954A-7CAFD7BAF242</string>
+			<string>com.apple.applicationaccess.37600ADB-DF05-4883-8E6A-A918C5272A3C</string>
 			<key>PayloadType</key>
 			<string>com.apple.applicationaccess</string>
 			<key>PayloadUUID</key>
-			<string>DBF90249-4A7D-4221-954A-7CAFD7BAF242</string>
+			<string>37600ADB-DF05-4883-8E6A-A918C5272A3C</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
-			<key>allowAirPrintiBeaconDiscovery</key>
-			<false/>
-			<key>allowPasswordProximityRequests</key>
-			<false/>
-			<key>allowPasswordSharing</key>
-			<false/>
-			<key>allowProximitySetupToNewDevice</key>
+			<key>allowDefinitionLookup</key>
 			<false/>
 		</dict>
 	</array>
 	<key>PayloadDisplayName</key>
-	<string>No Nearby / Proximity Features</string>
+	<string>Unsmartify No Definition Lookup</string>
 	<key>PayloadIdentifier</key>
-	<string>no-proximity-features.67302D7C-1FD1-455D-87C8-AC60231801F6</string>
+	<string>unsmarfity-no-definition-lookup-E8487205-ECCA-4D91-96E2-B86D16615EEA</string>
 	<key>PayloadScope</key>
 	<string>System</string>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>67302D7C-1FD1-455D-87C8-AC60231801F6</string>
+	<string>E8487205-ECCA-4D91-96E2-B86D16615EEA</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 	<key>RemovalDate</key>

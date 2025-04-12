@@ -27,7 +27,7 @@
 	<key>PayloadDisplayName</key>
 	<string>Enable Private Logging</string>
 	<key>PayloadIdentifier</key>
-	<string>private-logging.033932B0-A188-4528-87DC-8C01F49B3A37</string>
+	<string>private-logging.F0D0BDE7-A5D5-429E-9CF1-CE0033FE589D</string>
 	<key>PayloadScope</key>
 	<string>System</string>
 	<key>PayloadType</key>
@@ -36,7 +36,7 @@
 	<string>F0D0BDE7-A5D5-429E-9CF1-CE0033FE589D</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
-	<key>TargetDeviceType</key>
-	<integer>5</integer>
+	<key>RemovalDate</key>
+	<date>9999-12-31T15:37:24Z</date>
 </dict>
 </plist>
