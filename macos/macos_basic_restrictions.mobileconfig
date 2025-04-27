@@ -137,8 +137,6 @@
 		<dict>
 			<key>AutoFillCreditCardData</key>
 			<true/>
-			<key>AutoFillFromAddressBook</key>
-			<false/>
 			<key>AutoFillMiscellaneousForms</key>
 			<false/>
 			<key>AutoFillPasswords</key>
@@ -207,8 +205,6 @@
 			<true/>
 			<key>AppleShowScrollBars</key>
 			<string>Automatic</string>
-			<key>CSUIDisable32BitWarning</key>
-			<true/>
 			<key>MultipleSessionEnabled</key>
 			<true/>
 			<key>PayloadDisplayName</key>
@@ -320,54 +316,22 @@
 			<false/>
 			<key>allowBookstore</key>
 			<false/>
-			<key>allowCloudBTMM</key>
-			<false/>
 			<key>allowDeviceNameModification</key>
 			<false/>
 			<key>allowDiagnosticSubmission</key>
 			<false/>
-			<key>allowEnterpriseAppTrust</key>
-			<false/>
-			<key>allowEnterpriseBookBackup</key>
-			<false/>
-			<key>allowEnterpriseBookMetadataSync</key>
-			<false/>
-			<key>allowEraseContentAndSettings</key>
-			<false/>
-			<key>allowGlobalBackgroundFetchWhenRoaming</key>
-			<false/>
-			<key>allowManagedAppsCloudSync</key>
-			<false/>
 			<key>allowNews</key>
-			<false/>
-			<key>allowOpenFromManagedToUnmanaged</key>
-			<false/>
-			<key>allowOpenFromUnmanagedToManaged</key>
 			<false/>
 			<key>allowRadioService</key>
 			<false/>
 			<key>allowSiriServerLogging</key>
 			<false/>
-			<key>allowTimeMachineBackup</key>
-			<false/>
-			<key>allowVoiceDialing</key>
-			<false/>
 			<key>allowiTunes</key>
 			<false/>
 			<key>enforcedFingerprintTimeout</key>
 			<integer>86400</integer>
-			<key>forceAirDropUnmanaged</key>
-			<true/>
 			<key>forceAssistantProfanityFilter</key>
 			<false/>
-			<key>forceAuthenticationBeforeAutoFill</key>
-			<true/>
-			<key>forceAutomaticDateAndTime</key>
-			<true/>
-			<key>forceEncryptedBackup</key>
-			<true/>
-			<key>forceLimitAdTracking</key>
-			<true/>
 		</dict>
 		<dict>
 			<key>AutomaticDownload</key>
@@ -411,9 +375,7 @@
 			<key>BackupDestURL</key>
 			<string>/dev/null</string>
 			<key>BackupSizeMB</key>
-			<integer>1</integer>
-			<key>MobileBackups</key>
-			<false/>
+			<integer>0</integer>
 			<key>PayloadDisplayName</key>
 			<string>Time Machine</string>
 			<key>PayloadIdentifier</key>
@@ -424,10 +386,6 @@
 			<string>CFA18A39-7D48-4394-921A-E144748950D8</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
-			<key>SkipPaths</key>
-			<array>
-				<string>/</string>
-			</array>
 		</dict>
 		<dict>
 			<key>PayloadDisplayName</key>
@@ -494,8 +452,6 @@
 			<string>FE5A4FD6-61D2-4593-80F2-51D8A2D9F2F0</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
-			<key>ProhibitBurn</key>
-			<true/>
 			<key>ShowExternalHardDrivesOnDesktop</key>
 			<false/>
 			<key>ShowRecentTags</key>
@@ -530,82 +486,6 @@
 			<integer>1</integer>
 		</dict>
 		<dict>
-			<key>DSDontWriteNetworkStores</key>
-			<true/>
-			<key>PayloadDisplayName</key>
-			<string>Desktop Services</string>
-			<key>PayloadIdentifier</key>
-			<string>com.apple.desktopservices.FFDE6E4A-9ACD-40AD-90DB-5F3818C8E6EE</string>
-			<key>PayloadType</key>
-			<string>com.apple.ManagedClient.preferences</string>
-			<key>PayloadUUID</key>
-			<string>FFDE6E4A-9ACD-40AD-90DB-5F3818C8E6EE</string>
-			<key>PayloadVersion</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>PayloadDisplayName</key>
-			<string>TV Remote settings</string>
-			<key>PayloadIdentifier</key>
-			<string>com.apple.tvremote.C53F7820-28E7-4DB3-989B-AC67DDF7D5CD</string>
-			<key>PayloadType</key>
-			<string>com.apple.tvremote</string>
-			<key>PayloadUUID</key>
-			<string>C53F7820-28E7-4DB3-989B-AC67DDF7D5CD</string>
-			<key>PayloadVersion</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>PayloadDisplayName</key>
-			<string>App Store settings</string>
-			<key>PayloadIdentifier</key>
-			<string>com.apple.appstore.2F19E2E0-FBCB-487B-86BB-2A9E5290176E</string>
-			<key>PayloadType</key>
-			<string>com.apple.appstore</string>
-			<key>PayloadUUID</key>
-			<string>2F19E2E0-FBCB-487B-86BB-2A9E5290176E</string>
-			<key>PayloadVersion</key>
-			<integer>1</integer>
-			<key>restrict-store-require-admin-to-install</key>
-			<true/>
-		</dict>
-		<dict>
-			<key>BurnSupport</key>
-			<string>off</string>
-			<key>PayloadDisplayName</key>
-			<string>Media Management: Disc Burning #1</string>
-			<key>PayloadIdentifier</key>
-			<string>com.apple.DiscRecording.FC1BF761-EFFF-4467-A221-E8A4F7E2A609</string>
-			<key>PayloadType</key>
-			<string>com.apple.DiscRecording</string>
-			<key>PayloadUUID</key>
-			<string>FC1BF761-EFFF-4467-A221-E8A4F7E2A609</string>
-			<key>PayloadVersion</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>PayloadDisplayName</key>
-			<string>ShareKit</string>
-			<key>PayloadIdentifier</key>
-			<string>com.apple.ShareKitHelper.EB41EF6E-73D7-40F6-885B-48D1C89FF0E9</string>
-			<key>PayloadType</key>
-			<string>com.apple.ShareKitHelper</string>
-			<key>PayloadUUID</key>
-			<string>EB41EF6E-73D7-40F6-885B-48D1C89FF0E9</string>
-			<key>PayloadVersion</key>
-			<integer>1</integer>
-			<key>SHKDeniedShareServices</key>
-			<array>
-				<string>com.apple.share.LinkedIn.post</string>
-				<string>com.apple.share.Facebook</string>
-				<string>com.apple.share.Twitter</string>
-				<string>com.apple.share.Messages</string>
-				<string>com.apple.reminders.RemindersShareExtension</string>
-				<string>com.apple.share.Video</string>
-				<string>com.apple.share.readlater</string>
-			</array>
-		</dict>
-		<dict>
 			<key>PayloadDisplayName</key>
 			<string>macOS Time Synchronization Daemon</string>
 			<key>PayloadIdentifier</key>
@@ -618,6 +498,20 @@
 			<integer>1</integer>
 			<key>TMAutomaticTimeOnlyEnabled</key>
 			<true/>
+		</dict>
+		<dict>
+			<key>CSUIDisable32BitWarnings</key>
+			<true/>
+			<key>PayloadDisplayName</key>
+			<string>CoreServices UIAgent</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.coreservices.uiagent.82E74770-64DC-40F6-9119-24A94D3BE276</string>
+			<key>PayloadType</key>
+			<string>com.apple.coreservices.uiagent</string>
+			<key>PayloadUUID</key>
+			<string>82E74770-64DC-40F6-9119-24A94D3BE276</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
