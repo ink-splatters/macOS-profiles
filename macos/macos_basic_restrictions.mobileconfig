@@ -6,22 +6,6 @@
 	<array>
 		<dict>
 			<key>PayloadDisplayName</key>
-			<string>Ad Tracking</string>
-			<key>PayloadIdentifier</key>
-			<string>com.apple.AdLib.1E24FA35-55BA-4B95-BD18-6BE0456F0C21</string>
-			<key>PayloadType</key>
-			<string>com.apple.AdLib</string>
-			<key>PayloadUUID</key>
-			<string>1E24FA35-55BA-4B95-BD18-6BE0456F0C21</string>
-			<key>PayloadVersion</key>
-			<integer>1</integer>
-			<key>allowApplePersonalizedAdvertising</key>
-			<false/>
-			<key>forceLimitAdTracking</key>
-			<true/>
-		</dict>
-		<dict>
-			<key>PayloadDisplayName</key>
 			<string>The Unarchiver (Standalone)</string>
 			<key>PayloadIdentifier</key>
 			<string>com.macpaw.site.theunarchiver.905DA4A4-B761-4496-82B4-140822BC89DE</string>
@@ -34,20 +18,6 @@
 			<key>SUEnableAutomaticChecks</key>
 			<true/>
 			<key>userAgreedToNewTOSAndPrivacy</key>
-			<true/>
-		</dict>
-		<dict>
-			<key>PayloadDisplayName</key>
-			<string>Screencapture</string>
-			<key>PayloadIdentifier</key>
-			<string>com.apple.screencapture.F07F06BD-4070-4D35-B952-F6D8D051A460</string>
-			<key>PayloadType</key>
-			<string>com.apple.screencapture</string>
-			<key>PayloadUUID</key>
-			<string>F07F06BD-4070-4D35-B952-F6D8D051A460</string>
-			<key>PayloadVersion</key>
-			<integer>1</integer>
-			<key>disable-shadow</key>
 			<true/>
 		</dict>
 		<dict>
@@ -326,6 +296,8 @@
 			<false/>
 			<key>allowSiriServerLogging</key>
 			<false/>
+			<key>allowTimeMachineBackup</key>
+			<false/>
 			<key>allowiTunes</key>
 			<false/>
 			<key>enforcedFingerprintTimeout</key>
@@ -366,24 +338,6 @@
 			<string>com.apple.iBooksX</string>
 			<key>PayloadUUID</key>
 			<string>B3DB33E4-EB1F-405A-86B4-2A3F92DB3508</string>
-			<key>PayloadVersion</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>AutoBackup</key>
-			<false/>
-			<key>BackupDestURL</key>
-			<string>/dev/null</string>
-			<key>BackupSizeMB</key>
-			<integer>0</integer>
-			<key>PayloadDisplayName</key>
-			<string>Time Machine</string>
-			<key>PayloadIdentifier</key>
-			<string>com.apple.MCX.TimeMachine.CFA18A39-7D48-4394-921A-E144748950D8</string>
-			<key>PayloadType</key>
-			<string>com.apple.MCX.TimeMachine</string>
-			<key>PayloadUUID</key>
-			<string>CFA18A39-7D48-4394-921A-E144748950D8</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 		</dict>
@@ -512,6 +466,36 @@
 			<string>82E74770-64DC-40F6-9119-24A94D3BE276</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>Ad Tracking</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.AdLib.1E24FA35-55BA-4B95-BD18-6BE0456F0C21</string>
+			<key>PayloadType</key>
+			<string>com.apple.AdLib</string>
+			<key>PayloadUUID</key>
+			<string>1E24FA35-55BA-4B95-BD18-6BE0456F0C21</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>allowApplePersonalizedAdvertising</key>
+			<false/>
+			<key>forceLimitAdTracking</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>Screencapture</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.screencapture.F07F06BD-4070-4D35-B952-F6D8D051A460</string>
+			<key>PayloadType</key>
+			<string>com.apple.screencapture</string>
+			<key>PayloadUUID</key>
+			<string>F07F06BD-4070-4D35-B952-F6D8D051A460</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>disable-shadow</key>
+			<true/>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
