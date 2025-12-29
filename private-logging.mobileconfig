@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>System Logging</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.system.logging.8A624E7F-D3CB-46B6-8BCA-71D8B3D25CD6</string>
+			<key>PayloadType</key>
+			<string>com.apple.system.logging</string>
+			<key>PayloadUUID</key>
+			<string>8A624E7F-D3CB-46B6-8BCA-71D8B3D25CD6</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>System</key>
+			<dict>
+				<key>Enable-Private-Data</key>
+				<true/>
+			</dict>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>Enable Private Logging</string>
+	<key>PayloadIdentifier</key>
+	<string>li.slx.private</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>AC9ED291-5A91-47C0-B7DE-B1AA6032128C</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>RemovalDate</key>
+	<date>9999-12-31T07:50:57Z</date>
+</dict>
+</plist>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>Restrictions</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.applicationaccess.5A35923D-B37D-4EC3-A000-9C28627C00DB</string>
+			<key>PayloadType</key>
+			<string>com.apple.applicationaccess</string>
+			<key>PayloadUUID</key>
+			<string>5A35923D-B37D-4EC3-A000-9C28627C00DB</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>allowAssistant</key>
+			<false/>
+			<key>allowSiriServerLogging</key>
+			<false/>
+			<key>allowSpotlightInternetResults</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>Assistant Enabled</key>
+			<false/>
+			<key>PayloadDisplayName</key>
+			<string>Assistant</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.assistant.support.9D7FCCA8-C16B-411B-9FB9-818C1CC16C16</string>
+			<key>PayloadType</key>
+			<string>com.apple.assistant.support</string>
+			<key>PayloadUUID</key>
+			<string>9D7FCCA8-C16B-411B-9FB9-818C1CC16C16</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Search Queries Data Sharing Status</key>
+			<integer>2</integer>
+			<key>Siri Data Sharing Opt-In Status</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>Siri</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.Siri.6CDB3632-778E-4829-BF9E-A8C3F3D9C064</string>
+			<key>PayloadType</key>
+			<string>com.apple.Siri</string>
+			<key>PayloadUUID</key>
+			<string>6CDB3632-778E-4829-BF9E-A8C3F3D9C064</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>UserHasDeclinedEnable</key>
+			<true/>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>No Siri</string>
+	<key>PayloadIdentifier</key>
+	<string>li.slx.no-siri</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>851778A4-7B1A-4BE5-BED7-3112029E4BFA</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>RemovalDate</key>
+	<date>9999-12-31T07:49:34Z</date>
+</dict>
+</plist>

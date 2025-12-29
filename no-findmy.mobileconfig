@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>Restrictions</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.applicationaccess.6A1D71CF-6CBC-41BB-981C-5FB20DE086C2</string>
+			<key>PayloadType</key>
+			<string>com.apple.applicationaccess</string>
+			<key>PayloadUUID</key>
+			<string>6A1D71CF-6CBC-41BB-981C-5FB20DE086C2</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>allowFindMyFriends</key>
+			<false/>
+			<key>allowFindMyFriendsModification</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>DisableFMMiCloudSetting</key>
+			<true/>
+			<key>PayloadDisplayName</key>
+			<string>iCloud Find My</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.icloud.managed.CAA54283-293A-49B7-BB9D-A6E5F3462CC5</string>
+			<key>PayloadType</key>
+			<string>com.apple.icloud.managed</string>
+			<key>PayloadUUID</key>
+			<string>CAA54283-293A-49B7-BB9D-A6E5F3462CC5</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>No FindMy</string>
+	<key>PayloadIdentifier</key>
+	<string>li.slx.no-findmy</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>3F9ED918-0DEA-4B63-8768-11C2B2B98A7E</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>RemovalDate</key>
+	<date>9999-12-31T08:27:58Z</date>
+</dict>
+</plist>

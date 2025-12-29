@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>Restrictions</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.applicationaccess.A53A8C6D-EBA6-4F8B-B837-7B5DA27FA3BD</string>
+			<key>PayloadType</key>
+			<string>com.apple.applicationaccess</string>
+			<key>PayloadUUID</key>
+			<string>A53A8C6D-EBA6-4F8B-B837-7B5DA27FA3BD</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>allowAddingGameCenterFriends</key>
+			<false/>
+			<key>allowFindMyFriends</key>
+			<false/>
+			<key>allowFindMyFriendsModification</key>
+			<false/>
+			<key>allowMultiplayerGaming</key>
+			<false/>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>Restrict FindMy (no FMF)</string>
+	<key>PayloadIdentifier</key>
+	<string>li.slx.restrict-find-my</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>20B9CBD2-A141-4FFF-A727-0F00FC869250</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>RemovalDate</key>
+	<date>9999-12-31T08:05:10Z</date>
+</dict>
+</plist>

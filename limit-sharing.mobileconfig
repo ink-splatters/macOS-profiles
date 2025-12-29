@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>Restrictions</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.applicationaccess.F648C614-D380-4934-9D02-293A581E1AE9</string>
+			<key>PayloadType</key>
+			<string>com.apple.applicationaccess</string>
+			<key>PayloadUUID</key>
+			<string>F648C614-D380-4934-9D02-293A581E1AE9</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>allowARDRemoteManagementModification</key>
+			<false/>
+			<key>allowBluetoothSharingModification</key>
+			<false/>
+			<key>allowMediaSharingModification</key>
+			<false/>
+			<key>allowPrinterSharingModification</key>
+			<false/>
+			<key>allowRemoteAppleEventsModification</key>
+			<false/>
+			<key>allowSharedDeviceTemporarySession</key>
+			<false/>
+			<key>allowiTunesFileSharing</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>iTunes</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.iTunes.9488D9B0-E141-4969-BD11-7D3176F4EACC</string>
+			<key>PayloadType</key>
+			<string>com.apple.iTunes</string>
+			<key>PayloadUUID</key>
+			<string>9488D9B0-E141-4969-BD11-7D3176F4EACC</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>disableShareLibraryInfo</key>
+			<true/>
+			<key>disableSharedMusic</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>Media Sharing</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.preferences.sharing.SharingPrefsExtension.F5D10674-6B8B-4EF1-BD28-6BA26DDB4A9F</string>
+			<key>PayloadType</key>
+			<string>com.apple.preferences.sharing.SharingPrefsExtension</string>
+			<key>PayloadUUID</key>
+			<string>F5D10674-6B8B-4EF1-BD28-6BA26DDB4A9F</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>homeSharingUIStatus</key>
+			<integer>0</integer>
+			<key>legacySharingUIStatus</key>
+			<integer>0</integer>
+			<key>mediaSharingUIStatus</key>
+			<integer>0</integer>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>Limit Sharing</string>
+	<key>PayloadIdentifier</key>
+	<string>li.slx.limit-sharing</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>A8B00913-2F2D-45BA-A21B-F6C6457BAB9F</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>RemovalDate</key>
+	<date>2025-12-31T08:20:07Z</date>
+</dict>
+</plist>

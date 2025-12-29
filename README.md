@@ -4,6 +4,10 @@ Opinionated privacy-focused macOS defaults implemeneted as [configuration profil
 
 ### Changelog
 
+*2015-12-29*
+
+- profiles released
+
 *2015-12-01*
 
 - revised for macOS 26.1
